@@ -13,6 +13,9 @@ Finaly: Happy ! It works!
 
 Oli
 
+Goal:
+
 ![objectif](img/goal.png)
 
+Result:
 ![Result](img/work.png)
