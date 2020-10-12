@@ -8,7 +8,9 @@ height: 100%;
 width: 100%;
 }
 /*reset le CSS pour tous les navigateurs*/
-
+a {
+    text-decoration: none;
+}
 body {
     background-color: beige;
     display: flex;
