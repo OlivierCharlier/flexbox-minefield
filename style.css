@@ -86,22 +86,16 @@ body {
 }
 .nope:hover img{
     opacity: 0;
-    z-index: -1;
-   /* position:absolute; */
 }
 .sstxt {
     display: flex;
     justify-content: center;
     align-items: center;
     position:absolute;
-    z-index: 1;
     opacity: 0;
-  /*  width: 47px;
-    height: 47px; */
 }
 .sstxt:hover {
     position:absolute;
-    z-index:1200;
     opacity: 1;
     border: none;
 }
