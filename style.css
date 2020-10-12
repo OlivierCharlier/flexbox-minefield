@@ -9,7 +9,6 @@ width: 100%;
 }
 /*reset le CSS pour tous les navigateurs*/
 
-
 body {
     background-color: beige;
     display: flex;
@@ -99,4 +98,3 @@ body {
     opacity: 1;
     border: none;
 }
-
